@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomViewApplication</string>
+    <string name="hit_title">The hit</string>
 </resources>

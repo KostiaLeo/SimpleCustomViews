@@ -10,4 +10,11 @@
         <attr name="circle_color" format="color" />
         <attr name="circle_stroke_width" format="dimension" />
     </declare-styleable>
+
+    <declare-styleable name="HotSongView">
+        <attr name="song_image" format="string" />
+        <attr name="image_src" format="reference" />
+        <attr name="song_name" format="string" />
+        <attr name="artist_name" format="string" />
+    </declare-styleable>
 </resources>
